@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "Ex1.4.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
